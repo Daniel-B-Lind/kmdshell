@@ -2,7 +2,7 @@
 ### Single-file interactive Flask-based webshell.
 #### "holy heck what else is new"
 
-Webshells are a dime a dozen nowadays, and you can probably throw one together yourself if you want, but I wanted my own server to use if the need ever struck me and thought I might as well flesh it out with some bells and whistles. Open sourcing it from its former retirement in a random folder.
+Webshells are a dime a dozen nowadays, but I wanted my own server to use if the need ever struck. Decided that I might as well flesh it out with some bells and whistles. Open sourcing it from its former retirement in a random folder.
 
 Pairs well with tunneling software. Spin it up to bind to localhost, enforce a proxy, and point Cloudflared or Ngrok at it. It's JUST like SSH, you guys!
 
