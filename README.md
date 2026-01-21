@@ -1,5 +1,5 @@
 # KMDShell
-### Single-file interactive Flask-based webshell.
+### Interactive Flask-based webshell.
 #### "holy heck what else is new"
 
 Webshells are a dime a dozen nowadays, but I wanted my own server to use if the need ever struck. Decided that I might as well flesh it out with some bells and whistles. Open sourcing it from its former retirement in a random folder.
